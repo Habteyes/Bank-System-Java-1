@@ -1,5 +1,5 @@
 # Bank-System-Java
-Bank system on java by Serhii Petrusha aka Mr_Rism
+Bank system on java by habteyes asfaw
 
 Issues and current state of project you may check in RunApp.java file.
 
